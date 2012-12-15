@@ -1,0 +1,8 @@
+This is a sample project of RStudio to test machine learning library.
+DUe to rights management, data file is not included.
+If you use this RStudio project, please download data files from kaggle.
+To download data, you should create kaggle account.
+
+https://www.kaggle.com/c/titanic-gettingStarted/data
+
+you should set train.csv and test.csv to data/titanic/ folder.
